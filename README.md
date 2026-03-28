@@ -162,7 +162,6 @@ The Power BI dashboard enables executives to slice data by year, region, and bus
 ## Author
 
 **Rabiya**
-Aspiring Data Analyst | BFSI Domain Specialist
 📧 [rabiyathulaabitha04@gmail.com] | 🔗 [https://www.linkedin.com/in/rabiya1] | 
 
 ---
