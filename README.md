@@ -158,23 +158,12 @@ This project successfully demonstrates:
 
 The Power BI dashboard enables executives to slice data by year, region, and business unit — delivering actionable insights at a glance.
 
----
-
-##  Future Work
-
-- Integrate **real-time data** using Power BI Service + scheduled refresh
-- Add **forecasting visuals** using Power BI's built-in analytics pane
-- Build a **customer churn prediction model** using Python ML (Logistic Regression / Random Forest)
-- Expand to include **FX/currency impact analysis** across 19 countries
-- Publish the dashboard to **Power BI Service** for web access
-
----
 
 ## Author
 
 **Rabiya**
 Aspiring Data Analyst | BFSI Domain Specialist
-📧 [Your Email] | 🔗 [Your LinkedIn] | 💻 [Your GitHub]
+📧 [rabiyathulaabitha04@gmail.com] | 🔗 [https://www.linkedin.com/in/rabiya1] | 
 
 ---
 
