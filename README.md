@@ -6,7 +6,7 @@
 
 ##  Overview
 
-This project analyzes the financial performance of **Axis Bank** for **FY 2020–2024** using a dataset of **10,000+ transactions** across **7 business units** and **19 countries**. It covers the complete data analytics pipeline — from raw data in Excel to an interactive Power BI dashboard — simulating a real-world MNC analyst workflow in the **BFSI (Banking, Financial Services & Insurance)** domain.
+This project analyzes the financial performance of **Axis Bank** for **FY 2020–2024** using a dataset of **10,000+ transactions** across **7 business units** and **19 countries**. It covers the complete data analytics pipeline — from raw data in Excel to an interactive Power BI dashboard —  **BFSI (Banking, Financial Services & Insurance)** domain.
 
 ---
 
